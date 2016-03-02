@@ -1,0 +1,163 @@
+body{
+    font-family:"goudy-bookletter-1911-1","goudy-bookletter-1911-2","Baskerville","Georgia",serif;
+}
+
+h2.introduccion {
+    text-shadow: 0px 3px 4px rgba(0,0,0,.6);
+    font-size: 79px;
+    margin-top: 0;
+}
+h2.participation {
+    text-shadow: 0px 3px 4px rgba(0,0,0,.6);
+    font-size: 65px;
+    margin-top: 0;
+}
+p.participation{
+  color: white;
+  font-size: 25px;
+}
+h1{
+  text-align:center;
+  color: white;
+  font-size: 49px;
+}
+h1.introduccion{
+  color: #fff;important!
+}
+h1.speaker{
+    color: white;
+}
+h3.speaker{
+    color: white;
+}
+#intro {
+    background: url(../images/fondo.jpg) 50% 0 fixed;
+    min-height: 800px;
+    margin: 0 auto;
+    width: 100%;
+    padding: 100px 0;
+}
+.intro-unit {
+    color: #fff;
+    padding: 60px;
+    text-align: center;
+}
+#bloque1 {
+    background-color: #2E2E2E;
+    margin: 0 auto;
+    width: 100%;
+}
+#bloque-img2 {
+    background: url(../images/fondo.jpg) 50% 0 fixed ;
+    height: 600px;
+    padding: 100px 0;
+}
+#bloque-img3 {
+    background: url(../images/fondo.jpg) 50% 0 fixed ;
+    min-height: 600px;
+}
+
+.intro-unit3 {
+    color: #fff;
+    padding: 100px 100px;
+    text-align: center;
+}
+bloque-img3.h1{
+  color: #000;
+  padding: 100px;
+  text-align:left;
+}
+#bloque2 {
+    background-color: #2E2E2E;
+    margin: 0 auto;
+    width: 100%;
+    max-height: 450px;
+    color: #fff;
+}
+/*Estilos para la barra de navegación*/
+navbar{
+font-size: 25px;
+font-style: oblique;
+color: white;
+}
+/*Botones sociales*/
+ul.social-buttons {
+    margin-bottom: 0;
+}
+
+ul.social-buttons li a {
+    display: block;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    font-size: 20px;
+    line-height: 40px;
+    outline: 0;
+    color: #fff;
+    background-color: #222;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
+}
+
+ul.social-buttons li a:hover,
+ul.social-buttons li a:focus,
+ul.social-buttons li a:active {
+background-color: #000;
+}
+
+/*Miembros de la organización*/
+.organizatores {
+    margin-bottom: 250px;
+    text-align: center;
+}
+
+.organizatores img {
+    margin: 0 auto;
+    border: 3px solid;
+}
+.organizatores h5{
+      text-transform:uppercase;
+}
+.organizatores h3{
+      text-transform:uppercase;
+      text-decoration-style: wavy;
+}
+.organizatores h4 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none;
+}
+
+.organizatores p {
+    margin-top: 0;
+}
+/*Miembros de la organización*/
+.speaker {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.speaker img {
+    margin: 0 auto;
+}
+
+.speaker h4 {
+    margin-top: 15px;
+    margin-bottom: 0;
+    text-transform: none;
+}
+
+.speaker p {
+    margin-top: 0;
+}
+#mapita{
+  padding-top: 15px;
+  text-align: center;
+  color: #000;
+}
+#mapita2{
+  padding-top: 15px;
+  text-align: center;
+  color: #000;
+}
